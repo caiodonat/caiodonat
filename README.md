@@ -7,10 +7,12 @@
 ##
 
 <div>
+   <a href="https://github.com/CaioDonat">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDonat&layout=compact&langs_count=8&theme=tokyonight"/> </a>
+</div>
+
+<div>
  <p align="left">
-  
-  <a href="https://github.com/CaioDonat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDonat&layout=compact&langs_count=8&theme=tokyonight"/> </a>
    
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
