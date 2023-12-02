@@ -1,10 +1,14 @@
-# Dev Backend (1yr)
+# Backend Development (2yr)
 
-Made in Brazil
+- Made in Brazil
+- More of 2.5 years of active stude.
+- More of 1 year of professional services.
+- More of 1000 active code hours.
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-donat/)
+## Top languages:
 
-<!--
-[top-languages-card Docs](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#top-languages-card)
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodonat&theme=dracule&layout=compact&exclude_repo=ListaDeExercicios&hide=css&langs_count=7)
+
+## Social media
+
+- [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-donat/)
