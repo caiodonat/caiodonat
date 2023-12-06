@@ -1,9 +1,9 @@
 # Backend Development (2yr)
 
 - Made in Brazil
-- More of 2.5 years of active stude.
+- More of 2.5 years of active study.
 - More of 1 year of professional services.
-- More of 1100 active code hours.
+- More of 1100 hours of active code.
 
 ## Top languages:
 
