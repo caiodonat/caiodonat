@@ -3,7 +3,7 @@
 - Made in Brazil
 - More of 2.5 years of active stude.
 - More of 1 year of professional services.
-- More of 1000 active code hours.
+- More of 1100 active code hours.
 
 ## Top languages:
 
